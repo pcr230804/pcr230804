@@ -1,15 +1,12 @@
 # Hi there! I'm Pedro Calil 👋
-
-### 💻 CS Student · Backend Developer · Cybersecurity Enthusiast
+### 💻 CS Student · Backend Developer
 
 ---
 
 ## 🚀 About Me
-
 - 🎓 Computer Science student based in Brazil 🇧🇷
 - 🐧 Linux daily driver — comfortable living in the terminal
-- 🛠️ Backend developer who likes understanding how things work *under the hood*
-- 🔐 Diving into cybersecurity: pentest fundamentals, network analysis & cryptography
+- 🛠️ Curious about how systems work — from the code down to the machine
 
 ---
 
@@ -27,8 +24,6 @@
 ### Backend
 <p align="left">
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="30"/>
-<img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" height="30"/>
-<img src="https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs" height="30"/>
 <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white" height="30"/>
 </p>
 
@@ -39,25 +34,11 @@
 <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite" height="30"/>
 </p>
 
-### 🔐 Security & Networking
-<p align="left">
-<img src="https://img.shields.io/badge/-Nmap-333333?style=flat" height="30"/>
-<img src="https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-tcpdump-333333?style=flat" height="30"/>
-<img src="https://img.shields.io/badge/-Hashcat-333333?style=flat" height="30"/>
-<img src="https://img.shields.io/badge/-John_the_Ripper-333333?style=flat" height="30"/>
-<img src="https://img.shields.io/badge/-VirusTotal-333333?style=flat&logo=virustotal&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/-URLScan.io-333333?style=flat" height="30"/>
-<img src="https://img.shields.io/badge/-TryHackMe-333333?style=flat&logo=tryhackme&logoColor=white" height="30"/>
-</p>
-
 ### 🛠️ Tools & Version Control
 <p align="left">
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
 <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" height="30"/>
-<img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" height="30"/>
-<img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" height="30"/>
 </p>
 
 ### 📦 Operating Systems
@@ -70,11 +51,15 @@
 ---
 
 ## 📊 GitHub Stats
-
+<!--
+  A instância pública github-readme-stats.vercel.app está pausada desde jan/2026 (issue oficial:
+  github.com/anuraghazra/github-readme-stats/issues/4737). Faça seu próprio deploy no Vercel
+  (fork do repo + PAT como env var) e troque SEU-DOMINIO-AQUI pela URL gerada.
+-->
 <div align="center">
   <a href="https://github.com/pcr230804">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcr230804&show_icons=true&theme=dark&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcr230804&layout=compact&theme=dark"/>
+    <img height="180em" src="https://SEU-DOMINIO-AQUI.vercel.app/api?username=pcr230804&show_icons=true&theme=dark&count_private=true"/>
+    <img height="180em" src="https://SEU-DOMINIO-AQUI.vercel.app/api/top-langs/?username=pcr230804&layout=compact&theme=dark"/>
   </a>
 </div>
 
