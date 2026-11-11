@@ -26,6 +26,7 @@
 <p align="left">
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="30"/>
 <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi" height="30"/>
 </p>
 
 ### Databases
