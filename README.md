@@ -15,6 +15,7 @@
 ### Languages
 <p align="left">
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
+<img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" height="30"/>
 <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" height="30"/>
@@ -51,16 +52,10 @@
 ---
 
 ## 📊 GitHub Stats
-<!--
-  A instância pública github-readme-stats.vercel.app está pausada desde jan/2026 (issue oficial:
-  github.com/anuraghazra/github-readme-stats/issues/4737). Faça seu próprio deploy no Vercel
-  (fork do repo + PAT como env var) e troque SEU-DOMINIO-AQUI pela URL gerada.
--->
+<!-- Cards gerados pela Action em .github/workflows/profile-summary-cards.yml (atualiza 1x/dia). -->
 <div align="center">
-  <a href="https://github.com/pcr230804">
-    <img height="180em" src="https://SEU-DOMINIO-AQUI.vercel.app/api?username=pcr230804&show_icons=true&theme=dark&count_private=true"/>
-    <img height="180em" src="https://SEU-DOMINIO-AQUI.vercel.app/api/top-langs/?username=pcr230804&layout=compact&theme=dark"/>
-  </a>
+  <img height="180em" src="./profile-summary-card-output/github_dark/3-stats.svg"/>
+  <img height="180em" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 </div>
 
 ---
