@@ -1,0 +1,29 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # todo dia às 00:00 (America/Sao_Paulo)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Gerar cards do perfil
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Para incluir commits privados/evitar "Resource not accessible by integration",
+          # crie um PAT, salve como secret SUMMARY_CARDS_TOKEN e troque a linha acima por:
+          # GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          TIME_ZONE: America/Sao_Paulo
